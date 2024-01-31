@@ -1,0 +1,7 @@
+# Compiled object files
+*.o
+# Executable files
+*.exe
+gameOfLife
+# System files
+.DS_Store
