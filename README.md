@@ -65,6 +65,6 @@ Refactoring
   - more efficiency for larger boards
 
 AKNOWLEDGEMENTS:
-The Coding Train's youtube channel provides a great explanation on the inner workings of Conway's Game of Life. 
-Bruce A. Maxwells 'A simple makefile tutorial' was a great resource. 
-The LifeWiki over at conwayslife.com/wiki. 
+* The Coding Train's youtube channel provides a great explanation on the inner workings of Conway's Game of Life. 
+* Bruce A. Maxwells 'A simple makefile tutorial' was a great resource. 
+* The LifeWiki over at conwayslife.com/wiki. 
